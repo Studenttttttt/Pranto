@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string name="app_name">iCare</string>
+<string name="hello_world">Hello world!</string>
+<string name="action_settings">Settings</string>
+<string name="weight">Weight</string>
+<string name="enter_weight">Enter Weight</string>
+<string name="height">Height</string>
+<string name="enter_height">Enter Height</string>
+<string name="submit">Submit</string>
+<string name="cancel">Cencel</string>
+<string name="gender">Gender</string>
+<string name="enter_gender">Enter Gender</string>
+<string name="date_of_birth">Date Of Birth</string>
+<string name="enter_date_of_birth">Enter Date Of Birth</string>
+<string name="mothers_name">Mothers Name</string>
+<string name="enter_mothers_name">Enter Mothers Name</string>
+<string name="fathers_name">Fathers Name</string>
+<string name="enter_fathers_name">Enter Fathers Name</string>
+<string name="name">Name</string>
+<string name="enter_name">Enter Name</string> 
+<string name="diet">Diet</string> 
+
+
+<string-array name="dietNameSpinner">
+    <item>BreakFast</item>
+    <item>Snack</item>
+    <item>Lunch</item>
+    <item>Dinner</item>
+       
+    </string-array>
+    
+    
+    
+
+</resources>
+
